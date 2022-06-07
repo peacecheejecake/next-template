@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "0auth-sdk": "^0.0.12",
+    "@chakra-ui/icons": "^2.0.2",
     "@chakra-ui/react": "^1.6.5",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
